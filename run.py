@@ -111,7 +111,7 @@ def calculate_surplus_data(sales_row):
 
 def get_last_5_entries_sales():
     """
-    Collects collums of data from sales worksheet, collecting 
+    Collects collumns of data from sales worksheet, collecting 
     the last 5 entries for each sandwich and returns the data
     as a list of lists.
     """
